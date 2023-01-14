@@ -35,4 +35,5 @@ doc
 home.rst
 make.bat
 
-migrations/
+versions/
+*/versions/
