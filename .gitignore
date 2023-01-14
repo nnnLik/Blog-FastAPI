@@ -34,3 +34,6 @@ build
 doc
 home.rst
 make.bat
+
+versions/
+*/versions/
