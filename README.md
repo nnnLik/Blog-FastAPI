@@ -1,1 +1,6 @@
-<h1>Blog-FastAPI</h1>
+## TODO:
+### FIX:
+* imports model 
+### ADD:
+* auth b jwt
+  
